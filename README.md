@@ -1,2 +1,19 @@
-# filament_factory_db
-a system for the production of 3D printing filaments from recyclables
+# Filament Factory DB
+
+Учебное приложение для управления производством пластикового филамента.
+
+## Технологии
+- Python 3
+- Tkinter (GUI)
+- MySQL
+- Хранимые процедуры, функции, триггеры
+
+## Архитектура
+- Бизнес-логика вынесена на уровень базы данных
+- Приложение выполняет роль пользовательского интерфейса
+- Вся работа с БД инкапсулирована в одном модуле
+
+## Запуск
+1. Установить зависимости: pip install -r requirements.txt
+2. Настроить config.py
+3. Запустить: python main.py
