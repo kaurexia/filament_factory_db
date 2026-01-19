@@ -75,7 +75,7 @@
 
 ### Шаг 1: Клонирование репозитория
 
-git clone https://github.com/ваш-username/filament-factory.git
+git clone https://github.com/kaurexia/filament_factory_db.git
 cd filament-factory
 
 ### Шаг 2: Установка зависимостей
