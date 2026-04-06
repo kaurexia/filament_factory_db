@@ -156,3 +156,14 @@ python mysql_gui.py
 - Выберите "Все таблицы" для глобального поиска
 - Просмотрите результаты во вкладках  
 
+![photo_2025-12-26_22-36-47](https://github.com/user-attachments/assets/09057be4-8f5b-4ec8-980e-02ddc5481e5c)
+![photo_2025-12-26_22-36-47 (5)](https://github.com/user-attachments/assets/f6e7a2ce-7bca-43f1-bed8-ecc2503c029d)
+![photo_2025-12-26_22-36-48](https://github.com/user-attachments/assets/3fd1cb8b-660d-4168-a651-e66dd3804ccf)
+![photo_2025-12-26_22-36-48 (2)](https://github.com/user-attachments/assets/23b50b5e-ec2e-44ed-ae08-bdae9fff2816)
+![photo_2025-12-26_22-36-47 (3)](https://github.com/user-attachments/assets/f4dcd31b-441f-4d9d-aef4-3c051c03ec2e)
+![photo_2025-12-26_22-36-48 (3)](https://github.com/user-attachments/assets/4002b212-07aa-42a5-ad6c-f12dd66be07c)
+![photo_2025-12-26_22-36-47 (2)](https://github.com/user-attachments/assets/9f95b712-b9c2-4532-8ce6-8527b68c5050)
+![photo_2025-12-26_22-36-47 (4)](https://github.com/user-attachments/assets/982a89d4-83e4-4c16-b251-d835b33ace5f)
+![photo_2025-12-26_22-36-48 (4)](https://github.com/user-attachments/assets/0ce1adf9-a439-4134-9637-aace649ed86c)
+
+
